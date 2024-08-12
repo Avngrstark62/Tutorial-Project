@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name = 'Tutorial Project'
+project_name = 'TutorialProject'
 
 list_of_files = [
     '.github/workflows/.gitkeep',
